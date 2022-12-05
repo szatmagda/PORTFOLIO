@@ -44,7 +44,7 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
 ## _**My projects**_ :pushpin:
-* Poject made as part of the "QA Challenge: Zostań Testerem Manualnym" course
+* Project made as part of the "QA Challenge: Zostań Testerem Manualnym" course
   * [Test cases for the test page](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
   * [Test cases for the "Pick Eat Up" app](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
   * [Reporting bugs](https://docs.google.com/document/d/13DG-gMUyzZdD5VKnJMifGyB24nWvbXdLTLegalrgQqA/edit?usp=share_link)
