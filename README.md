@@ -1,19 +1,19 @@
 # Portfolio
 
-## _**About me**_
+## _**About me**_ :raising_hand:
 
 My name is Magdalena Szatkowska. For some time I have been educating myself and increasing my knowledge in the field of software testing. Programming has always interested me, but I really liked testing and I'm glad that I can present my acquired skills. My goal is to develop testing knowledge and technical skills.
 
 In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
-## _**Courses**_
+## _**Courses**_ :computer:
 * QA Challenge: Zostań Testerem Manualnym from Dare IT
 * SprintED: zostań testerem_ką! from INCO Academy
 * Akademia Rozwoju dla kobiet from PFR (Grupa Polskiego Funduszu Rozwoju)
 * Praktyczny kurs testowania oprogramowania (Udemy)
 * 6-day HTML/CSS Marathon from GoIT
 
-## _**Tools**_
+## _**Tools**_ :hammer:
 * [Jira](https://www.atlassian.com/pl/software/jira) - Project management and bug tracking tool for developers
 * [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
 * [XAMPP](https://www.apachefriends.org/pl/index.html) - Environment where you can quickly test scripts on your PC without running them on a production server
@@ -22,14 +22,14 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 * [Slack](https://slack.com/) - App to communicate with your team
 * Github
 
-## _**Tech skills**_
+## _**Tech skills**_ :electric_plug:
 * Devtools
 * SQL
 * Software testing
 * Creating test cases
 * Reporting bugs
 
-## _**Blogs I read**_
+## _**Blogs I read**_ :books:
 * [testerzy.pl](https://testerzy.pl/)
 * [testuj.pl](https://testuj.pl/blog/)
 * [testerka.pl](https://testerka.pl/)
@@ -37,13 +37,13 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 * [cherry-it.pl](http://cherry-it.pl/)
 * [qualityisland.pl](https://qualityisland.pl/blog/)
 
-## _**IT groups on Facebook I follow**_
+## _**IT groups on Facebook I follow**_ :eyes:
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
-## _**My projects**_
+## _**My projects**_ :pushpin:
 * Poject made as part of the "QA Challenge: Zostań Testerem Manualnym" course
   * [Test cases for the test page](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
   * [Test cases for the "Pick Eat Up" app](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
