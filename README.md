@@ -29,6 +29,16 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 * Creating test cases
 * Reporting bugs
 
+## _**Soft skills**_
+* Ability to work in a team
+* Communication
+* Good time management 
+* High personal culture
+* Responsibility
+* Willingness to learn and motivation 
+* Creativity
+* Optimism and calmness
+
 ## _**Blogs I read**_ :books:
 * [testerzy.pl](https://testerzy.pl/)
 * [testuj.pl](https://testuj.pl/blog/)
