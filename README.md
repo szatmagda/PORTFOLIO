@@ -29,7 +29,7 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 * Creating test cases
 * Reporting bugs
 
-## _**Soft skills**_
+## _**Soft skills**_ :cloud:
 * Ability to work in a team
 * Communication
 * Good time management 
