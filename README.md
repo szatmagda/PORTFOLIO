@@ -6,6 +6,16 @@ My name is Magdalena Szatkowska. For some time I have been educating myself and 
 
 In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
+## _**Experience**_ :briefcase:
+* _**Graduate internship in the Ficturo sp. z o.o. company as a Manual Tester**_ _(04.2023 - 05.2023)_
+
+My duties included testing websites with high requirements in terms of User Experience and User Interface.
+
+I also received references from the company [Click :point_left:](https://github.com/szatmagda/Portfolio/files/11847801/Referencje_Ficturo_MSz-podpis.pdf)
+
+
+
+
 ## _**Courses**_ :computer:
 * QA Challenge: Zostań Testerem Manualnym from Dare IT
 * SprintED: zostań testerem_ką! from INCO Academy
