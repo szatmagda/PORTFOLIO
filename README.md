@@ -84,4 +84,3 @@ I also received references from the company [Click :point_left:](https://github.
 
 ## _**Let's connect!**_ :phone:
 * [LinkedIn](https://www.linkedin.com/in/magdalena-szatkowska02/)
-* E-mail - szatmagda@gmail.com
