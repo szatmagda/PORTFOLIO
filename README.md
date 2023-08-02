@@ -83,5 +83,5 @@ I also received references from the company [Click :point_left:](https://github.
   * [My all exercises in github](https://github.com/szatmagda/challenge_portfolio_Magda)
 
 ## _**Let's connect!**_ :phone:
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/magdalena-szatkowska02/)
 * [E-mail](szatmagda@gmail.com)
