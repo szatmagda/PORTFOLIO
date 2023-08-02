@@ -17,6 +17,7 @@ I also received references from the company [Click :point_left:](https://github.
 
 
 ## _**Courses**_ :computer:
+* QA Challenge: Testy Automatyczne w praktyce (+ Python) from Dare IT
 * QA Challenge: Zostań Testerem Manualnym from Dare IT
 * SprintED: zostań testerem_ką! from INCO Academy
 * Akademia Rozwoju dla kobiet from PFR (Grupa Polskiego Funduszu Rozwoju)
@@ -25,19 +26,25 @@ I also received references from the company [Click :point_left:](https://github.
 
 ## _**Tools**_ :hammer:
 * [Jira](https://www.atlassian.com/pl/software/jira) - Project management and bug tracking tool for developers
+* [Notion](https://www.notion.so/) - Project management
 * [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
+* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [XAMPP](https://www.apachefriends.org/pl/index.html) - Environment where you can quickly test scripts on your PC without running them on a production server
 * [Miro](https://miro.com/pl/) - Virtual visualization platform
 * [OBS Studio](https://obsproject.com/) - Open source software for video recording and live streaming
+* [Loom](https://www.loom.com/) - Video recording tools
 * [Slack](https://slack.com/) - App to communicate with your team
 * Github
 
 ## _**Tech skills**_ :electric_plug:
 * Devtools
-* SQL
+* Basics of the SQL
 * Software testing
+* Creating automated tests with Robot Framework
+* Creating automated tests with Selenium WebDriver
 * Creating test cases
 * Reporting bugs
+* Creating technical documentation
 
 ## _**Soft skills**_ :cloud:
 * Ability to work in a team
@@ -64,6 +71,9 @@ I also received references from the company [Click :point_left:](https://github.
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
 ## _**My projects**_ :pushpin:
+* Project made as part of the "QA Challenge: Testy Automatyczne w praktyce (+ Python)" course:
+  * 
+  
 * Project made as part of the "QA Challenge: Zostań Testerem Manualnym" course:
   * [Test cases for the test page](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
   * [Test cases for the "Pick Eat Up" app](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
